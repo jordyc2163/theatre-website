@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+}
+.date {
+    background-color: grey;
+}
+.thebox {
+    margin: 50px 25px;
+}
+.insidemain .col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+}
+h3, h4{
+    font-size: 15px;
+}
+h4 {
+    position: relative;
+    left: 20px;
+    top: 5px;
+}
+
+.insidemain p {
+    font-size: 12px;
+}
+.icons {
+    filter: invert(92%) sepia(89%) saturate(7494%) hue-rotate(330deg) brightness(98%) contrast(97%);
+}
+.footer li {
+    margin-bottom: 20px;
+}
